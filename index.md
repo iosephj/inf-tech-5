@@ -19,7 +19,7 @@ version: "13/04/26"
 
 ## Guías de aprendizaje
 
-**1.** [Introducción](/modules/intro/intro.html)
+**1.** [Introducción](modules/intro/intro.html)
 
 
 <span hidden>Fin archivo</span>
