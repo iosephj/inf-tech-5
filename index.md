@@ -21,6 +21,7 @@ version: "13/04/26"
 
 **1.** [Introducción](modules/intro/intro.html)
 
+**2.** [Repaso de ofimática](modules/ofimatica_repaso/guide1.html)
 
 <span hidden>Fin archivo</span>
 
