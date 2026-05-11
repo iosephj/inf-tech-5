@@ -101,6 +101,113 @@ En la siguiente tabla se resumen algunas características principales:
 </div>
 
 
+<br>
+
+
+### 4. Combinación Texto - Planilla
+
+Se trata de un trabajo que combina ambas cosas hecho en grupos de a dos.
+
+#### Consigna
+
+La escuela realizará una feria donde distintos cursos venderán productos para recaudar dinero.
+Cada grupo deberá analizar las ventas de un puesto y elaborar un informe con conclusiones.
+
+El trabajo se realizará en dos etapas:
+
+1. Resolución inicial en papel.
+2. Desarrollo digital usando herramientas informáticas.
+
+
+##### Primera etapa: resolución en papel
+
+Antes de usar la computadora, cada grupo deberá presentar:
+
+* Un esquema de cómo organizarán la información.
+* Qué datos necesitarán registrar.
+* Qué cálculos realizarán.
+* Qué tablas o gráficos piensan hacer.
+* Cómo dividirán el trabajo entre Excel y Word.
+
+Una vez aprobado por el docente podrán comenzar la parte informática.
+
+##### Situación
+
+Un puesto venderá:
+
+* Hamburguesas
+* Gaseosas
+* Papas fritas
+
+Durante tres días deberán registrar:
+
+* Cantidad vendida por día.
+* Precio de cada producto.
+* Dinero recaudado.
+* Gastos aproximados.
+* Ganancia final.
+
+##### Parte A — Trabajo en planilla de cálculo
+
+1. Crear una tabla con:
+
+   * Productos.
+   * Precio.
+   * Cantidad vendida cada día.
+   * Recaudación total.
+   * Gastos.
+   * Ganancia.
+
+2. Utilizar fórmulas automáticas para:
+
+   * Multiplicaciones.
+   * Sumas.
+   * Totales.
+   * Porcentajes.
+
+3. Crear al menos:
+
+   * Un gráfico de barras.
+   * Un gráfico circular o de líneas.
+
+4. Responder:
+
+   * ¿Qué producto generó más ingresos?
+   * ¿Qué día se vendió más?
+   * ¿Qué porcentaje del total representa cada producto?
+
+
+##### Parte B — Informe en Word
+
+Utilizando Microsoft Word:
+
+Redactar un informe breve que incluya:
+
+* Introducción.
+* Descripción del puesto.
+* Explicación de cómo organizaron los datos.
+* Tablas o gráficos copiados desde Excel.
+* Análisis de resultados.
+* Conclusiones y propuestas para mejorar las ventas.
+
+
+##### Entrega final
+
+Cada grupo deberá entregar:
+
+* Archivo planilla.
+* Archivo procesador de textos.
+* Esquema inicial en papel aprobado por el docente.
+
+
+##### Criterios de evaluación
+
+* Organización de la información.
+* Correcto uso de fórmulas.
+* Claridad de tablas y gráficos.
+* Calidad de la redacción.
+* Interpretación de resultados.
+* Presentación general.
 
 
 
