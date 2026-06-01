@@ -27,7 +27,12 @@ version: "13/04/26"
 
 <span hidden>Fin archivo</span>
 
-</div>
+---
+
+**Verifica** tu progreso [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave las dos primeras letras de tu nombre completo (en minúscula, sin tíldes). Ejemplo: Para Juan Eduardo Juarez Pérez la clave sería: **juedjupe** (primero nombres después apellidos).
+
+
+
 <!-- HTML style definitions -->
 <style>
 /* Colors */
