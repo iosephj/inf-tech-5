@@ -32,8 +32,6 @@ Hay aplicaciones que funcionan localmente en la pc como las de Microsoft o las d
 
 Empezamos con el ejercicio dictado en clase sobre el cálculo del precio de unos productos por mes y la evaluación de cual conviene más.
 
-#### Actividad 1
-
 (No es la versión exacta del dictado en clase pero también se puede hacer esta versión)
 
 Se trata de calcular el precio por mes de cada cadenas de transmisión de motocicletas y decir cual conviene comprar y por que teniendo en cuenta la calidad y las condiciones de uso.
@@ -106,114 +104,29 @@ En la siguiente tabla se resumen algunas características principales:
 
 ### 4. Combinación Texto - Planilla
 
-Se trata de un trabajo que combina ambas cosas hecho en grupos de a dos.
+Resuelve la siguiente situación usando planilla de cálculo y procesador de textos según cual te parezca mejor usar en cada caso.
 
-#### Consigna
+Una empresa de ventas paga a sus empleados el 11% del valor que vende por mes, cuanto más vende cada uno más gana. El jefe recibió este mes el informe:
 
-La escuela realizará una feria donde distintos cursos venderán productos para recaudar dinero.
-Cada grupo deberá analizar las ventas de un puesto y elaborar un informe con conclusiones.
+---
 
-El trabajo se realizará en dos etapas:
+*Este mes las ventas no han sido buenas, hemos bajado respecto al mes anterior, aun así los empleados piden aumentar su ganancia aduciendo que no les alcanza para vivir. Uno por uno esta es la situación:*
 
-1. Resolución inicial en papel.
-2. Desarrollo digital usando herramientas informáticas.
+- *Vendedor 1: El mes pasado vendió $ 23000000 este mes bajó un 10% sus ventas.*
+- *Vendedor 2: El mes pasado vendió $ 32000000 y este mes bajó un 18% sus ventas.*
+- *Vendedor 3: El mes pasado vendió $ 28000000 y este més solo bajó el 5% sus ventas.*
 
+*Dicen que aunque se esforzaron igual o más bajaron las ventas por la situación del pais. Quieren saber si es posible pasar a ganar un 14% de las ventas en vez de el 11% que ganan ahora.*
 
-##### Primera etapa: resolución en papel
+---
 
-Antes de usar la computadora, cada grupo deberá presentar:
+Elaborar el análisis y respuesta del jefe a sus empleados, para esto seguir los siguientes puntos:
 
-* Un esquema de cómo organizarán la información.
-* Qué datos necesitarán registrar.
-* Qué cálculos realizarán.
-* Qué tablas o gráficos piensan hacer.
-* Cómo dividirán el trabajo entre Excel y Word.
+**a)** Hacer una tabla con las siguientes columnas: Vendedor; Venta mes anterior; Venta mes actual; Sueldo mes actual (sin aumento); Sueldo mes actual (con aumento); Diferencia (entre ambos sueldos).
 
-Una vez aprobado por el docente podrán comenzar la parte informática.
+**b)** Tomar la decisión que te parezca más correcta mirando la tabla anterior. Una posibilidad es aumentar el % que ganan como piden los empleados pero sabiendo que así se puede comprometer la ganancia y estabilidad de la empresa, si a la empresa le va mal todos quedan sin trabajo. Otra posibilidad es no aumentar y decir que van a invertir una cantidad (decir que cantidad) en marketing para intentar aumentar las ventas en un 30% y así aumentar el total que recibe cada uno. Puedes tomar otras decisiones según te parezca más adecuado mientras puedas fundamentarla.
 
-##### Situación
-
-Un puesto venderá:
-
-* Hamburguesas
-* Gaseosas
-* Papas fritas
-
-Durante tres días deberán registrar:
-
-* Cantidad vendida por día.
-* Precio de cada producto.
-* Dinero recaudado.
-* Gastos aproximados.
-* Ganancia final.
-
-##### Parte A — Trabajo en planilla de cálculo
-
-1. Crear una tabla con:
-
-   * Productos.
-   * Precio.
-   * Cantidad vendida cada día.
-   * Recaudación total.
-   * Gastos.
-   * Ganancia.
-
-2. Utilizar fórmulas automáticas para:
-
-   * Multiplicaciones.
-   * Sumas.
-   * Totales.
-   * Porcentajes.
-
-3. Crear al menos:
-
-   * Un gráfico de barras.
-   * Un gráfico circular o de líneas.
-
-4. Responder:
-
-   * ¿Qué producto generó más ingresos?
-   * ¿Qué día se vendió más?
-   * ¿Qué porcentaje del total representa cada producto?
-
-
-##### Parte B — Informe en Word
-
-Utilizando Microsoft Word:
-
-Redactar un informe breve que incluya:
-
-* Introducción.
-* Descripción del puesto.
-* Explicación de cómo organizaron los datos.
-* Tablas o gráficos copiados desde Excel.
-* Análisis de resultados.
-* Conclusiones y propuestas para mejorar las ventas.
-
-
-##### Entrega final
-
-Cada grupo deberá entregar:
-
-* Archivo planilla.
-* Archivo procesador de textos.
-* Esquema inicial en papel aprobado por el docente.
-
-
-##### Criterios de evaluación
-
-* Organización de la información.
-* Correcto uso de fórmulas.
-* Claridad de tablas y gráficos.
-* Calidad de la redacción.
-* Interpretación de resultados.
-* Presentación general.
-
-
-
-
-
-
+**c)** Escribe una nota de respuesta del jefe a los empleados. Esta debe tener un título, la decisión tomada y una explicación de las mismas poniendo incluso números que avalen la decisión tomada. El párrafo final debe tener un tono positivo tratando de animar a los vendedores.
 
 
 <!-- *** GUIDE END *** -->
