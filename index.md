@@ -23,6 +23,8 @@ version: "13/04/26"
 
 **2.** [Repaso de ofimática](modules/ofimatica_repaso/guide1.html)
 
+**3.** [Introducción a las páginas web](modules/html/guide.html)
+
 <span hidden>Fin archivo</span>
 
 </div>
