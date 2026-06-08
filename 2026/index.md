@@ -21,7 +21,7 @@ version: "13/04/26"
 
 **2.** [Repaso de ofimática](office/guide.html)
 
-**3.** [Introducción a las páginas web](html/guide.html)
+**3.** [Introducción a las páginas web]() <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 1: Introducción](web/intro.html) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 2: HTML (1)](web/html-1.html) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 3: HTML (2)](web/html-2.html)
 
 <span hidden>Fin archivo</span>
 
