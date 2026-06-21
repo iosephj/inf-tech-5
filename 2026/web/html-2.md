@@ -80,13 +80,13 @@ Acá tenés la estructura básica y más usada:
 
 ```
 
-##### Los dos atributos que lleva sí o sí:
+#### Los dos atributos que lleva sí o sí:
 
 * **`src` (source/origen):** Indica **dónde está** el archivo de la imagen. Puede ser el nombre de un archivo que tengas en la misma carpeta (como `foto.jpg`) o una dirección web (URL) completa.
 * **`alt` (texto alternativo):** Es una **descripción corta** de la imagen. No se ve en la pantalla, pero es fundamental por dos razones: si la imagen no carga por problemas de internet, aparece ese texto en su lugar; y además, es lo que leen los sistemas de asistencia para personas con discapacidad visual.
 
 
-##### Ejemplo práctico en código:
+#### Ejemplo práctico en código:
 
 En este primer ejemplo luego de `src=` se pone la dirección web de una imagen, pregunta al profesor como se obtiene si no lo sabes.
 
@@ -101,9 +101,11 @@ En este segundo ejemplo luego de `src=` se pone el nombre de un archivo guardado
 
 ```
 
-##### Actividad
+#### Actividad
 
-Abre el block de notas y haz una página con un título, lineas y al menos dos imágenes. Una de las imágenes tiene que ser una imagen que esté en la web. Laa otra imagen hazla con paint, algo sencillo, y muestralo en tu página web. Es decir una imagen está en la nube y la otra está en tu computadora. 
+Abre con el block de notas el trabajo de la guía anterior e inlcuye al menos dos imágenes. Una de las imágenes tiene que ser una imagen que esté en la web. La otra imagen hazla con paint, algo sencillo, y muestralo en tu página web. Para que aparezca la imagen el archivo de la misma debe estar en la misma carpeta que el archivo html. 
+
+**Resumen:** En la página debe aparecer una imagen que está en la nube y otra está en tu computadora.
 
 > Esta actividad se aprueba mostrando y explicando al profesor
 

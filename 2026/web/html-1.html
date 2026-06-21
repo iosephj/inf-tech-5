@@ -129,8 +129,8 @@ que significa encabezado o título.</li>
 <li>Las que tienen <strong>“p”</strong> vienen de <em>Paragraph</em>,
 que en inglés significa párrafo</li>
 </ul>
-<h5 id="etiqueta-de-apertura-y-cierre">Etiqueta de apertura y
-cierre</h5>
+<h4 id="etiqueta-de-apertura-y-cierre">Etiqueta de apertura y
+cierre</h4>
 <p>Muchas etiquetas tienen:</p>
 <pre><code>&lt;p&gt;Contenido&lt;/p&gt;
  |     |      |
@@ -139,12 +139,41 @@ cierre</h5>
  Etiqueta de apertura</code></pre>
 <p>Ejemplo:</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">p</span><span class="dt">&gt;</span>Este es un párrafo.<span class="dt">&lt;/</span><span class="kw">p</span><span class="dt">&gt;</span></span></code></pre></div>
-<h5 id="actividad">Actividad</h5>
+<h4 id="actividad">Actividad</h4>
 <p>Observa este <a href="https://es.khanacademy.org/computing/computer-programming/html-css/intro-to-html/pt/html-basics">video</a>.
-Luego abre block de notas y escribe el texto que hiciste en word en las
-clases pasadas pero en html siguiendo las etiquetas del video. Lo único
-que no podrás hacer por ahora es la tabla. Luego lo guardas con el
-nombre <em>mi_pagina.html</em> y lo abres con el navegador.</p>
+Luego abre block de notas y sigue estas instrucciones para hacer tu
+primer página web:</p>
+<ol type="1">
+<li>Abre el block de notas de Windows (Notepad) que es el editor más
+simple que tienes a disposición.</li>
+<li>Abre tu documento de Word, el que hicisite en el pto. 3 de la guía
+de Ofimática. Usarás este para tu página web.</li>
+<li>Copia el contenido que sugiere el video (figura de abajo) hasta
+llegar a la etiqueta <code>&lt;title&gt;</code> dentro de la sección
+<code>&lt;head&gt;</code>. Pon allí el título de tu documento word. Este
+es un metadato, algo que no aparece en la página misma pero sí en la
+pestaña del navegador.</li>
+<li>A partir de la pestaña <code>&lt;body&gt;</code> empieza lo que
+verás en tu página realmente. Allí usa <code>&lt;h1&gt;</code> para
+poner de nuevo el título de tu texto, <code>&lt;p&gt;</code> para
+delimitar párrafos, <code>&lt;h2&gt;</code> para subtítulos o títulos de
+segundo nivel, etc.</li>
+<li>Cuando llegues a la parte en donde haces una lista enumerando cosas
+tienes que estructurarlo con las pestañas <code>&lt;ul&gt;</code>
+(Unordered List → lista no ordenada) y <code>&lt;li&gt;</code> (List
+Item → elemento de lista) como se muestra abajo:</li>
+</ol>
+<div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">ul</span><span class="dt">&gt;</span></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">li</span><span class="dt">&gt;</span>Manzana<span class="dt">&lt;/</span><span class="kw">li</span><span class="dt">&gt;</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">&lt;</span><span class="kw">li</span><span class="dt">&gt;</span>Banana<span class="dt">&lt;/</span><span class="kw">li</span><span class="dt">&gt;</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;/</span><span class="kw">ul</span><span class="dt">&gt;</span></span></code></pre></div>
+<ol start="6" type="1">
+<li>Por ahora no vamos a incluir la tabla de tu texto por lo que luego
+de lo anterior guardas con el nombre <em>mi_pagina.html</em> y lo abres
+con el navegador (puede ponerle otro nombre pero siempre termina con
+<code>.html</code>. Puedes ver como quedó la página web del ejemplo dado
+en ofimática <a href="html-1-solved.html">aquí</a>.</li>
+</ol>
 <!-- Image -->
 <br>
 <center>
@@ -154,6 +183,9 @@ nombre <em>mi_pagina.html</em> y lo abres con el navegador.</p>
 <span class="grey3 size70">Ejemplo de una página. </span> <span class="grey3 size50">Fuente: khanacademy.org</span>
 </center>
 <p><br></p>
+<p><strong>Aclaración:</strong> En HTML la “sangría” (indentación) no
+cambia cómo funciona la página, pero sirve para que el código sea más
+ordenado y fácil de leer.</p>
 <blockquote>
 <p>Esta actividad se aprueba mostrando y explicando al profesor</p>
 </blockquote>

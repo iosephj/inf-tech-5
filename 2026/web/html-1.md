@@ -48,7 +48,7 @@ Ejemplos:
 - Las etiquetas con **"h"** vienen de *Heading*, que significa encabezado o título.
 - Las que tienen **"p"** vienen de *Paragraph*, que en inglés significa párrafo
 
-##### Etiqueta de apertura y cierre
+#### Etiqueta de apertura y cierre
 
 Muchas etiquetas tienen:
 
@@ -66,9 +66,24 @@ Ejemplo:
 <p>Este es un párrafo.</p>
 ```
 
-##### Actividad
+#### Actividad
 
-Observa este [video](https://es.khanacademy.org/computing/computer-programming/html-css/intro-to-html/pt/html-basics). Luego abre block de notas y escribe el texto que hiciste en word en las clases pasadas pero en html siguiendo las etiquetas del video. Lo único que no podrás hacer por ahora es la tabla. Luego lo guardas con el nombre *mi_pagina.html* y lo abres con el navegador.
+Observa este [video](https://es.khanacademy.org/computing/computer-programming/html-css/intro-to-html/pt/html-basics). Luego abre block de notas y sigue estas instrucciones para hacer tu primer página web:
+
+1. Abre el block de notas de Windows (Notepad) que es el editor más simple que tienes a disposición.
+2. Abre tu documento de Word, el que hicisite en el pto. 3 de la guía de Ofimática. Usarás este para tu página web.
+3. Copia el contenido que sugiere el video (figura de abajo) hasta llegar a la etiqueta `<title>` dentro de la sección `<head>`. Pon allí el título de tu documento word. Este es un metadato, algo que no aparece en la página misma pero sí en la pestaña del navegador.
+4. A partir de la pestaña `<body>` empieza lo que verás en tu página realmente. Allí usa `<h1>` para poner de nuevo el título de tu texto, `<p>` para delimitar párrafos, `<h2>` para subtítulos o títulos de segundo nivel, etc.
+5. Cuando llegues a la parte en donde haces una lista enumerando cosas tienes que estructurarlo con las pestañas `<ul>` (Unordered List → lista no ordenada) y `<li>` (List Item → elemento de lista) como se muestra abajo:
+
+```html
+<ul>
+  <li>Manzana</li>
+  <li>Banana</li>
+</ul>
+```
+
+6. Por ahora no vamos a incluir la tabla de tu texto por lo que luego de lo anterior guardas con el nombre *mi_pagina.html* y lo abres con el navegador (puede ponerle otro nombre pero siempre termina con `.html`. Puedes ver como quedó la página web del ejemplo dado en ofimática [aquí](html-1-solved.html).
 
 <!-- Image -->
 <br>
@@ -78,6 +93,8 @@ Observa este [video](https://es.khanacademy.org/computing/computer-programming/h
       <span class="grey3 size50">Fuente: khanacademy.org</span>
    </center>
 <br>
+
+**Aclaración:** En HTML la "sangría" (indentación) no cambia cómo funciona la página, pero sirve para que el código sea más ordenado y fácil de leer. 
 
 > Esta actividad se aprueba mostrando y explicando al profesor
 
