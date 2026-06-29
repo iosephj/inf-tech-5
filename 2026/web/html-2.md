@@ -1,5 +1,5 @@
 ---
-title: "HTML Básico"
+title: "HTML Básico (2)"
 autor: "José Juarez"
 version: "01/06/26"
 ---
@@ -47,7 +47,17 @@ Toda página HTML suele comenzar así:
 
 <br>
 
-### 2. Saltos de línea
+### 2. Inserción de otros objetos en una página web
+
+#### a) Comentarios
+
+A veces quieres poner un comentario en tu HTML de modo que resulte una aclaración o un recordatorios. No son obligatorios y no aparecen en la página web, son solo para el que lee el código. Se encierran entre `<!--` y `-->` como lo ves abajo:
+
+```html
+<!-- Esto es un comentario en HTML -->
+```
+
+#### b) Saltos de línea
 
 Un salto de línea es un cambio de renglón. El navegador cambia de renglón en un texto solo cuando ve `<br>`.
 
@@ -56,9 +66,7 @@ Primera línea<br>
 Segunda línea
 ```
 
-<br>
-
-### 3. Línea horizontal
+#### c) Línea horizontal
 
 Pueden usarse para separar partes. Se insertan con `<hr>`
 
@@ -67,9 +75,7 @@ Pueden usarse para separar partes. Se insertan con `<hr>`
 <hr>
 ```
 
-<br>
-
-### 4. Inserción de imágenes 
+#### d) Imágenes 
 
 Para insertar una imagen en HTML se usa la etiqueta `<img>`. Es una etiqueta "autocerrante", lo que significa que no necesita una etiqueta de cierre (no lleva `</img>`).
 
@@ -80,13 +86,13 @@ Acá tenés la estructura básica y más usada:
 
 ```
 
-#### Los dos atributos que lleva sí o sí:
+##### Los dos atributos que lleva sí o sí:
 
 * **`src` (source/origen):** Indica **dónde está** el archivo de la imagen. Puede ser el nombre de un archivo que tengas en la misma carpeta (como `foto.jpg`) o una dirección web (URL) completa.
 * **`alt` (texto alternativo):** Es una **descripción corta** de la imagen. No se ve en la pantalla, pero es fundamental por dos razones: si la imagen no carga por problemas de internet, aparece ese texto en su lugar; y además, es lo que leen los sistemas de asistencia para personas con discapacidad visual.
 
 
-#### Ejemplo práctico en código:
+##### Ejemplo práctico en código:
 
 En este primer ejemplo luego de `src=` se pone la dirección web de una imagen, pregunta al profesor como se obtiene si no lo sabes.
 
@@ -96,16 +102,26 @@ En este primer ejemplo luego de `src=` se pone la dirección web de una imagen, 
 
 En este segundo ejemplo luego de `src=` se pone el nombre de un archivo guardado en el disco rígido en la misma carpeta donde está el archivo html.
 
-```
+```html
 <img src="mi-moto.jpg" alt="Mi motocicleta estacionada de perfil">
 
 ```
 
 #### Actividad
 
-Abre con el block de notas el trabajo de la guía anterior e inlcuye al menos dos imágenes. Una de las imágenes tiene que ser una imagen que esté en la web. La otra imagen hazla con paint, algo sencillo, y muestralo en tu página web. Para que aparezca la imagen el archivo de la misma debe estar en la misma carpeta que el archivo html. 
+**a)** **Agregar dos imágenes:**
 
-**Resumen:** En la página debe aparecer una imagen que está en la nube y otra está en tu computadora.
+- Abre con el block de notas el trabajo de la guía anterior e inlcuye al menos dos imágenes. Una de las imágenes tiene que ser una imagen que esté en la web. La otra imagen hazla con paint, algo sencillo, y muestralo en tu página web. Para que aparezca la imagen el archivo de la misma debe estar en la misma carpeta que el archivo html.
+- Puedes pone saltos de línea y una línea horizontal si es necesario o quieres hacerlo. 
+- [Aquí](../../images/web/html_2_solved.png) puedes ver como queda el código HTML para el texto sobre computación que usé en el ejemplo de word.
+- [Aquí](html-2-solved_a.html) puedes ver como queda si lo abres en el navegador.
+- **Resumen:** En la página debe aparecer una imagen que está en la nube y otra está en tu computadora.
+
+**b)** **Agregar cosas a las imágenes**
+
+- Investiga como, sin usar CSS, es decir usando solo HTML, puedes cambiar el tamaño de la imagen manteniendo la proporción, y también como agregar un pie de imagen. Haz pruebas y muestra una versión final que te guste.
+- [Aquí](html-2-solved_b.html) puedes ver como queda si lo abres en el navegador.
+
 
 > Esta actividad se aprueba mostrando y explicando al profesor
 

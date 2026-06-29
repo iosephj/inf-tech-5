@@ -11,6 +11,33 @@ version: "13/04/26"
 **Año:** 2026
 
 **Profesor:** José Juarez
+
+<div class="size80">
+
+**Condiciones de aprobación**
+
+<span class="size60"> **A:** Aprobado, **P:** Pendiente</span> 
+
+- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+   + **Bimestre 1:** Tener **A** en: Ofimática pto.2 (Planilla)
+   + **Bimestre 2:** Tener **A** en: Ofimática (ptos. 3 y 4), Prueba 1, Introducción Web (Guías 2 y 3)  
+
+<div hidden>
+
++ **Bimestre 2:** Tener **A** en Guía 5 (Alt. 2), Guía 6 (Alt. 3) y Prueba 2.
+
+- **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
+   + **Bimestre 3:** Tener **A** en Guía 9 (Alt. 5) y Guía 10 (Alt 6)
+   + **Bimestre 4:** Tener **A** en Guía 12 y Prueba 3
+</div>
+
+</div>
+
+
+
+
+
+
 </div>
 
 <br>

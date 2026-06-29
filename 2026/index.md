@@ -1,5 +1,5 @@
 ---
-title: "Tecnologías de la información"
+title: "Tecnologías de la información (5to)"
 autor: "José Juarez"
 version: "13/04/26"
 ---
@@ -11,6 +11,24 @@ version: "13/04/26"
 **Año:** 2026
 
 **Profesor:** José Juarez
+
+<div class="size80">
+
+**Condiciones de aprobación**
+
+- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+   + **Bimestre 1:** Tener **A** en: Ofimática pto.2 (Planilla)
+   + **Bimestre 2:** Tener **A** en: Ofimática (ptos. 3 y 4), Prueba 1, Introducción Web (Guías 2 y 3)  
+
+<div hidden>
+- **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
+   + **Bimestre 3:** Tener **A** en Guía 9 (Alt. 5) y Guía 10 (Alt 6)
+   + **Bimestre 4:** Tener **A** en Guía 12 y Prueba 3
+</div>
+
+</div>
+
+
 </div>
 
 <br>
@@ -27,9 +45,7 @@ version: "13/04/26"
 
 ---
 
-**Verifica** tu progreso [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave las dos primeras letras de cada uno de tus apellidos y luego las de cada uno de tus nombres. Ejemplo: Para `Juarez Pérez Juan Eduardo` la clave sería: **jupejued** (primero apellidos y después nombres).
-
-
+**Verifica** tu avance [aquí](https://script.google.com/macros/s/AKfycbyvHb0UdlvLyjDOfbcyq1EIbvj0KpIKTzec9dcPJwlIu34WPe4EptGnaYw7xaRJ4naX4Q/exec) poniendo como clave las dos primeras letras de cada uno de tus apellidos y luego las de cada uno de tus nombres. Ejemplo: Para `Juarez Pérez Juan Eduardo` la clave sería: **jupejued** (primero apellidos y después nombres). <span class="size70">**A:** Aprobado, **P:** Pendiente</span> 
 
 <!-- HTML style definitions -->
 <style>

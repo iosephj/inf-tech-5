@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>HTML Básico</title>
+  <title>HTML Básico (2)</title>
   <style>
 
 code{white-space: pre-wrap;}
@@ -90,7 +90,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; }
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">HTML Básico</h1>
+<h1 class="title">HTML Básico (2)</h1>
 </header>
 <!-- Image -->
 <center>
@@ -131,26 +131,32 @@ Ejemplos: Textos, Imágenes, Tablas, Botones</li>
 <li><code>&lt;p&gt;</code> Párrafo</li>
 </ul>
 <p><br></p>
-<h3 id="saltos-de-línea">2. Saltos de línea</h3>
+<h3 id="inserción-de-otros-objetos-en-una-página-web">2. Inserción de
+otros objetos en una página web</h3>
+<h4 id="a-comentarios">a) Comentarios</h4>
+<p>A veces quieres poner un comentario en tu HTML de modo que resulte
+una aclaración o un recordatorios. No son obligatorios y no aparecen en
+la página web, son solo para el que lee el código. Se encierran entre
+<code>&lt;!--</code> y <code>--&gt;</code> como lo ves abajo:</p>
+<div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">&lt;!-- Esto es un comentario en HTML --&gt;</span></span></code></pre></div>
+<h4 id="b-saltos-de-línea">b) Saltos de línea</h4>
 <p>Un salto de línea es un cambio de renglón. El navegador cambia de
 renglón en un texto solo cuando ve <code>&lt;br&gt;</code>.</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>Primera línea<span class="dt">&lt;</span><span class="kw">br</span><span class="dt">&gt;</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>Segunda línea</span></code></pre></div>
-<p><br></p>
-<h3 id="línea-horizontal">3. Línea horizontal</h3>
+<div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>Primera línea<span class="dt">&lt;</span><span class="kw">br</span><span class="dt">&gt;</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>Segunda línea</span></code></pre></div>
+<h4 id="c-línea-horizontal">c) Línea horizontal</h4>
 <p>Pueden usarse para separar partes. Se insertan con
 <code>&lt;hr&gt;</code></p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">hr</span><span class="dt">&gt;</span></span></code></pre></div>
-<p><br></p>
-<h3 id="inserción-de-imágenes">4. Inserción de imágenes</h3>
+<div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">hr</span><span class="dt">&gt;</span></span></code></pre></div>
+<h4 id="d-imágenes">d) Imágenes</h4>
 <p>Para insertar una imagen en HTML se usa la etiqueta
 <code>&lt;img&gt;</code>. Es una etiqueta “autocerrante”, lo que
 significa que no necesita una etiqueta de cierre (no lleva
 <code>&lt;/img&gt;</code>).</p>
 <p>Acá tenés la estructura básica y más usada:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">&quot;imagen.png&quot;</span><span class="ot"> alt</span><span class="op">=</span><span class="st">&quot;Descripción de la imagen&quot;</span><span class="dt">&gt;</span></span></code></pre></div>
-<h4 id="los-dos-atributos-que-lleva-sí-o-sí">Los dos atributos que lleva
-sí o sí:</h4>
+<div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">&quot;imagen.png&quot;</span><span class="ot"> alt</span><span class="op">=</span><span class="st">&quot;Descripción de la imagen&quot;</span><span class="dt">&gt;</span></span></code></pre></div>
+<h5 id="los-dos-atributos-que-lleva-sí-o-sí">Los dos atributos que lleva
+sí o sí:</h5>
 <ul>
 <li><strong><code>src</code> (source/origen):</strong> Indica
 <strong>dónde está</strong> el archivo de la imagen. Puede ser el nombre
@@ -163,24 +169,42 @@ problemas de internet, aparece ese texto en su lugar; y además, es lo
 que leen los sistemas de asistencia para personas con discapacidad
 visual.</li>
 </ul>
-<h4 id="ejemplo-práctico-en-código">Ejemplo práctico en código:</h4>
+<h5 id="ejemplo-práctico-en-código">Ejemplo práctico en código:</h5>
 <p>En este primer ejemplo luego de <code>src=</code> se pone la
 dirección web de una imagen, pregunta al profesor como se obtiene si no
 lo sabes.</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">&quot;https://ejemplo.com/paisaje.jpg&quot;</span><span class="ot"> alt</span><span class="op">=</span><span class="st">&quot;Montaña con nieve durante el amanecer&quot;</span><span class="dt">&gt;</span></span></code></pre></div>
+<div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">&quot;https://ejemplo.com/paisaje.jpg&quot;</span><span class="ot"> alt</span><span class="op">=</span><span class="st">&quot;Montaña con nieve durante el amanecer&quot;</span><span class="dt">&gt;</span></span></code></pre></div>
 <p>En este segundo ejemplo luego de <code>src=</code> se pone el nombre
 de un archivo guardado en el disco rígido en la misma carpeta donde está
 el archivo html.</p>
-<pre><code>&lt;img src=&quot;mi-moto.jpg&quot; alt=&quot;Mi motocicleta estacionada de perfil&quot;&gt;
-</code></pre>
+<div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="dt">&lt;</span><span class="kw">img</span><span class="ot"> src</span><span class="op">=</span><span class="st">&quot;mi-moto.jpg&quot;</span><span class="ot"> alt</span><span class="op">=</span><span class="st">&quot;Mi motocicleta estacionada de perfil&quot;</span><span class="dt">&gt;</span></span></code></pre></div>
 <h4 id="actividad">Actividad</h4>
-<p>Abre con el block de notas el trabajo de la guía anterior e inlcuye
+<p><strong>a)</strong> <strong>Agregar dos imágenes:</strong></p>
+<ul>
+<li>Abre con el block de notas el trabajo de la guía anterior e inlcuye
 al menos dos imágenes. Una de las imágenes tiene que ser una imagen que
 esté en la web. La otra imagen hazla con paint, algo sencillo, y
 muestralo en tu página web. Para que aparezca la imagen el archivo de la
-misma debe estar en la misma carpeta que el archivo html.</p>
-<p><strong>Resumen:</strong> En la página debe aparecer una imagen que
-está en la nube y otra está en tu computadora.</p>
+misma debe estar en la misma carpeta que el archivo html.</li>
+<li>Puedes pone saltos de línea y una línea horizontal si es necesario o
+quieres hacerlo.</li>
+<li><a href="../../images/web/html_2_solved.png">Aquí</a> puedes ver
+como queda el código HTML para el texto sobre computación que usé en el
+ejemplo de word.</li>
+<li><a href="html-2-solved_a.html">Aquí</a> puedes ver como queda si lo
+abres en el navegador.</li>
+<li><strong>Resumen:</strong> En la página debe aparecer una imagen que
+está en la nube y otra está en tu computadora.</li>
+</ul>
+<p><strong>b)</strong> <strong>Agregar cosas a las imágenes</strong></p>
+<ul>
+<li>Investiga como, sin usar CSS, es decir usando solo HTML, puedes
+cambiar el tamaño de la imagen manteniendo la proporción, y también como
+agregar un pie de imagen. Haz pruebas y muestra una versión final que te
+guste.</li>
+<li><a href="html-2-solved_b.html">Aquí</a> puedes ver como queda si lo
+abres en el navegador.</li>
+</ul>
 <blockquote>
 <p>Esta actividad se aprueba mostrando y explicando al profesor</p>
 </blockquote>

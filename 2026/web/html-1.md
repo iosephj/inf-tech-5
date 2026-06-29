@@ -1,5 +1,5 @@
 ---
-title: "HTML Básico"
+title: "HTML Básico (1)"
 autor: "José Juarez"
 version: "01/06/26"
 ---
@@ -87,12 +87,16 @@ Observa este [video](https://es.khanacademy.org/computing/computer-programming/h
 
 <!-- Image -->
 <br>
-   <center>![](web/html_estructura.png){width=400px}</center>
+   <center>![](web/html_estructura.png){}</center>
    <center>
       <span class="grey3 size70">Ejemplo de una página. </span>
       <span class="grey3 size50">Fuente: khanacademy.org</span>
    </center>
 <br>
+
+[Aquí](../../images/web/html_1_solved.png) puedes ver como queda el código HTML para el texto sobre computación que usé en el ejemplo de word.
+
+[Aquí](html-1-solved.html) puedes ver como queda si lo abres en el navegador.
 
 **Aclaración:** En HTML la "sangría" (indentación) no cambia cómo funciona la página, pero sirve para que el código sea más ordenado y fácil de leer. 
 
