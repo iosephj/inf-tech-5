@@ -18,7 +18,7 @@ version: "13/04/26"
 
 - **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
    + **Bimestre 1:** Tener **A** en: Ofimática pto.2 (Planilla)
-   + **Bimestre 2:** Tener **A** en: Ofimática (ptos. 3 y 4), Prueba 1, Introducción Web (Guías 2 y 3)  
+   + **Bimestre 2:** Tener **A** en: Ofimática (ptos. 3 y 4), Prueba 1 (Web: Guía 1), Introducción Web (Guías 2 y 3)
 
 <div hidden>
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
@@ -39,7 +39,12 @@ version: "13/04/26"
 
 **2.** [Repaso de ofimática](office/guide.html)
 
-**3.** [Introducción a las páginas web]() <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 1: Introducción](web/intro.html) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 2: HTML (1)](web/html-1.html) <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 3: HTML (2)](web/html-2.html)
+**3.** **Introducción a páginas web:**
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 1: Introducción](web/intro.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 2: HTML (1)](web/html-1.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 3: HTML (2)](web/html-2.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 4: CSS (1)](web/css-1.html)
+
 
 <span hidden>Fin archivo</span>
 
