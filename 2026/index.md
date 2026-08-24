@@ -45,6 +45,7 @@ version: "13/04/26"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 3: HTML (2)](web/html-2.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 4: CSS (1)](web/css-1.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 5: CSS (2)](web/css-2.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 6: CSS (3)](web/css-3.html)
 
 <span hidden>Fin archivo</span>
 
