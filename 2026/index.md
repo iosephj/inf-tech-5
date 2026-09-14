@@ -43,9 +43,10 @@ version: "13/04/26"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 1: Introducción](web/intro.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 2: HTML (1)](web/html-1.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 3: HTML (2)](web/html-2.html)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 4: CSS (1)](web/css-1.html)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 5: CSS (2)](web/css-2.html)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 6: CSS (3)](web/css-3.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 4: CSS (1) - dar color](web/css-1.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 5: CSS (2) - id e imágenes](web/css-2.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 6: CSS (3) - clases](web/css-3.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 7: CSS (4) - repaso](web/css-4.html)
 
 <span hidden>Fin archivo</span>
 
