@@ -47,6 +47,8 @@ version: "13/04/26"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 5: CSS (2) - id e imágenes](web/css-2.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 6: CSS (3) - clases](web/css-3.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 7: CSS (4) - repaso](web/css-4.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 8: HTML (3) - links o vínculos](web/html-3.html)
+
 
 <span hidden>Fin archivo</span>
 
