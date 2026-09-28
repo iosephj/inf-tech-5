@@ -24,6 +24,8 @@ https://www.ejemplo.com/carpeta/pagina.html
 
 ## 2. Hacer un vínculo externo
 
+Puedes ver este contenido también en este [video](https://es.khanacademy.org/computing/computer-programming/html-css/html-tags-continued/pt/html-links).
+
 Para enlazar una página de otro sitio se utiliza `<a>` (de "ancla") indicando la URL completa:
 
 ```html
