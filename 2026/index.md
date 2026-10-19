@@ -20,9 +20,10 @@ version: "13/04/26"
    + **Bimestre 1:** Tener **A** en: Ofimática pto.2 (Planilla)
    + **Bimestre 2:** Tener **A** en: Ofimática (ptos. 3 y 4), Prueba 1 (Web: Guía 1), Introducción Web (Guías 2 y 3)
 
-<div hidden>
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
-   + **Bimestre 3:** Tener **A** en Guía 9 (Alt. 5) y Guía 10 (Alt 6)
+   + **Bimestre 3:** Tener **A** en Guías 4, 5, 6 y 7 de Introducción Web
+
+<div hidden>
    + **Bimestre 4:** Tener **A** en Guía 12 y Prueba 3
 </div>
 
@@ -48,6 +49,7 @@ version: "13/04/26"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 6: CSS (3) - clases](web/css-3.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 7: CSS (4) - repaso](web/css-4.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 8: HTML (3) - links o vínculos](web/html-3.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 9: HTML (4) - tablas](web/html-4.html)
 
 
 <span hidden>Fin archivo</span>
