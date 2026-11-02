@@ -46,7 +46,13 @@ El atributo `border="1"` es solo para visualizar las líneas de guía básicas. 
 
 ::: activity
 
-- Busca en la web un editor html, pega tu código allí, verás que puedes ver las cosas de un modo más visual que el block de notas.
+- Busca en la web un editor html, pega tu código allí, verás que puedes ver las cosas de un modo más visual que el block de notas. Por ejemplo puedes usar [HCODX](https://hcodx.io/editor/) del siguiente modo: 
+
+   + Abres el link
+   + Eliges Open files (Abrir archivos)
+   + Seleccionas el archivo html y el de la imagen
+   + Hay una opción llamada "Split View" que permite ver el código y la apariencia al mismo tiempo.
+
 - Agrega una tabla en tu página
 
 :::

@@ -50,6 +50,8 @@ version: "13/04/26"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 7: CSS (4) - repaso](web/css-4.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 8: HTML (3) - links o vínculos](web/html-3.html)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 9: HTML (4) - tablas](web/html-4.html)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;[Guía 10: HTML (5) - mejorar el diseño](web/html-5.html)
+
 
 
 <span hidden>Fin archivo</span>
